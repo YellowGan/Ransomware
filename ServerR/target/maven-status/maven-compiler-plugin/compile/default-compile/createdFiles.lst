@@ -1,0 +1,7 @@
+com\mycompany\server\RandomGenerator.class
+com\mycompany\server\checkPayment.class
+com\mycompany\server\MySQL.class
+com\mycompany\server\delete.class
+com\mycompany\server\payment.class
+com\mycompany\server\createIdKey.class
+com\mycompany\server\Crypto.class
