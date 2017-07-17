@@ -1,19 +1,14 @@
 # Ransomware
 
-L’obiettivo di tale progetto è quello di creare un ransomware, a scopo didattico, che simula il comportamento reale del malware.
+The didactic project's goal is to create a ransomware that simulates the actual behavior of malware.
 
-Il progetto è stato sviluppato per il sistema operativo Microsoft Windows come obiettivo dell'attacco, poichè il ransomware prende in considerazione la radice (ad esempio C:) del SO stesso.
+The project was developed for the Microsoft Windows operating system as the target of the attack, since the ransomware takes into account the root (eg C :) of the SO itself.
 
-Inoltre, attualmente, Microsoft Windows risulta essere il sistema operativo più diffuso, permettendo dunque al malware di raggiungere più dispositivi possibili.
+In addition, Microsoft Windows is currently the most widely used operating system, enabling malware to reach as many devices as possible.
 
-## Linguaggio di programmazione utilizzato
+## Programming languages
 
-Per la realizzazione del progetto sono stati utilizzati due linguaggi di programmazione:
+Two programming languages were used to implement the project:
 
-- per lo sviluppo del client è stato utilizzato il C++;
-- per lo sviluppo del server è stato utilizzato il Java.
-
-Sono state utilizzate funzioni e classi fornite dalle seguenti librerie:
-
-- C++ Standard Library: stdio.h, stdlib.h, conio.h, ctime, string, ...
-- Microsoft: windows.h, winable.h, winsock2.h, ws2tcpip.h, ...
+- C++ was used to develop the client
+- Java was used to develop the server
